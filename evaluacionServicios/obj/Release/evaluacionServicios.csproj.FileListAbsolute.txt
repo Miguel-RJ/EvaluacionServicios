@@ -1,0 +1,7 @@
+C:\Users\axelf\Documents\Proyectos\evaluacionServicios\evaluacionServicios\bin\Release\evaluacionServicios.exe.config
+C:\Users\axelf\Documents\Proyectos\evaluacionServicios\evaluacionServicios\bin\Release\evaluacionServicios.exe
+C:\Users\axelf\Documents\Proyectos\evaluacionServicios\evaluacionServicios\bin\Release\evaluacionServicios.pdb
+C:\Users\axelf\Documents\Proyectos\evaluacionServicios\evaluacionServicios\obj\Release\evaluacionServicios.ProjectInstaller.resources
+C:\Users\axelf\Documents\Proyectos\evaluacionServicios\evaluacionServicios\obj\Release\evaluacionServicios.csproj.GenerateResource.cache
+C:\Users\axelf\Documents\Proyectos\evaluacionServicios\evaluacionServicios\obj\Release\evaluacionServicios.exe
+C:\Users\axelf\Documents\Proyectos\evaluacionServicios\evaluacionServicios\obj\Release\evaluacionServicios.pdb
